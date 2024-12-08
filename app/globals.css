@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hidden.md\:block.text-vertical.text-xl.font-medium.tracking-wider.text-zinc-900 {
+  writing-mode: vertical-rl;
+}
