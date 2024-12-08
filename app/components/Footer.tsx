@@ -1,7 +1,6 @@
 import React from 'react'
 import Link from 'next/link'
 import { FaFacebook, FaYoutube, FaTwitter, FaInstagram, FaPinterest } from "react-icons/fa";
-import { AiOutlineMail } from "react-icons/ai";
 import Image from 'next/image';
 import Logo from '../../public/Vector.png';
 
